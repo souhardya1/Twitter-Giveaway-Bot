@@ -37,7 +37,9 @@ Tweepy
  Sometime it happens that a previsited tweet appears and it tags again in the same tweet. To avoid that created two empty list in scan function. 
  If only both of the lists are empty then it tags two people your mention. If any one the list is not empty it means the script has visited the tweet before thats why either liked it or retweeted it. thats why any one of the like() or retweet() funtion is throwing an error which is being stored in any of those empty list. Then only tag() function will not be executed.
  
+ 
+ 
 
-### Still in V.1. No doubt needs a lot of improvements. If anyone wants to collaborate to improve the script,Do fork the repo and add your ideas. I will be more than happy to implement those in the original repo.
+`Still in V.1. No doubt needs a lot of improvements. If anyone wants to collaborate to improve the script,Do fork the repo and add your ideas. I will be more than happy to implement those in the original repo.`
  
 
